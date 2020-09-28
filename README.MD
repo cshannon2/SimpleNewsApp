@@ -6,12 +6,12 @@ This repository contains the code for a simple news application written using Ja
 ## Important Notes
 In order to use the program the user will need to provide a two letter abbreviation for the country. I have provided a couple of the abbreviations below for your conveinence. 
 
-United States - us
-Australia - au 
-Canada - ca
-China - ch 
-England - gb 
-Mexico - mx
+United States - us<br/>
+Australia - au<br/>
+Canada - ca<br/>
+China - ch<br/>
+England - gb<br/> 
+Mexico - mx<br/>
 
 
 ## Quick Links
