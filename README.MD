@@ -23,7 +23,7 @@ Mexico - mx
 
 ## Getting Started
 
-To make this process easier for you I have included an executable jar file. The executable jar file is named: "NewsApp.jar". If you wish to run the program you can simply double click on the executable jar and it should run successfully. If you would like to compile and build the application your self you can follow the instructions below.  
+To make this process easier for you I have included an executable jar file. The executable jar file is named: "NewsApp.jar". If you wish to run the program you can simply double click on the executable jar and it should run successfully. If you would like to compile and build the application yourself you can follow the instructions below.  
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ To run this Project, you will need to have Java version 14.0.2 (see Quick Links 
 
 This program also imports GSON. I have included the gson-2.8.6.jar file in the src directory. 
 
-This program requires and API key. API Keys are considered sensitive information and should not be shared publicly. If you would like to manually build this application you will need to provide your own API Key. Please see the Google News API link in quick links section to create your own api. 
+This program requires an API key. API Keys are considered sensitive information and should not be shared publicly. If you would like to manually build this application you will need to provide your own API Key. Please see the Google News API link in quick links section to create your own API key. 
 
 Once you have created your own API key you can simply update the API key in two different files the NewsApp.java and the NewAppTest.java file.  When you open these files you will see a section at the top that says:
 
